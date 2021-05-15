@@ -1,5 +1,12 @@
 
 <?php 
+//////////////////////////////////////////////
+//  VideoSite-Builder-HTML-Editor Site and Video Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,
+// copyright 2013 vga.smtvs.com vanguntallen@gmail.com
+//  GPL-3.0 License
+//////////////////////////////////////////////
+
+
 
 if (isset($_POST["filename"])) {
 	$fname = $_POST["filename"];
