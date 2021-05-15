@@ -1,4 +1,4 @@
-VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,</p>
+VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Allen VGA Digital Lab  .,</p>
  copyright 2013 vga.smtvs.com vanguntallen@gmail.com</p>
   GPL-3.0 License</p>
 
