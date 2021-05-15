@@ -1,8 +1,8 @@
-//////////////////////////////////////////////
-//  VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,
-// copyright 2013 vga.smtvs.com vanguntallen@gmail.com
-//  GPL-3.0 License
-//////////////////////////////////////////////
+VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,</p>
+ copyright 2013 vga.smtvs.com vanguntallen@gmail.com</p>
+  GPL-3.0 License</p>
+
+
 
 Video Site Page  Builder HTML Editor Bata with draggable  div window
 
