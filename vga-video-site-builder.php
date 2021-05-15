@@ -1,7 +1,7 @@
 
 <?php 
 //////////////////////////////////////////////
-//  VideoSite-Builder-HTML-Editor Site and Video Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,
+//  VideoSite-Builder-HTML-Editor Site and Video Admin Design and Script by Van-Gunt Allen VGA Digital Lab  .,
 // copyright 2013 vga.smtvs.com vanguntallen@gmail.com
 //  GPL-3.0 License
 //////////////////////////////////////////////
