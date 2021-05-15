@@ -5,6 +5,6 @@ Video Site Page  Builder HTML Editor
  Generate HTML and Build your Custom video ,movie responsive page or site 
  
  Included in this pack:<p>
- include folder
+ include folder <p>
  link font_files folder
    
