@@ -4,7 +4,7 @@ VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Alle
 
 
 
-Video Site Page  Builder HTML Editor Bata with draggable  div window
+Video Site Page  Builder HTML Editor Bata with draggable  File Manager window
 
  Generate video ,audio player with a  template.</p>
  Generate HTML and Build your Custom video ,movie responsive page or Website 
