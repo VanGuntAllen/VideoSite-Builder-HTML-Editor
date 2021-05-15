@@ -1,4 +1,9 @@
-# VideoSite-Builder-HTML-Editor
+//////////////////////////////////////////////
+//  VideoSite-Builder-HTML-Editor Site and  Admin Design and Script by Van-Gunt Allen VGA Digital Lab Templates .,
+// copyright 2013 vga.smtvs.com vanguntallen@gmail.com
+//  GPL-3.0 License
+//////////////////////////////////////////////
+
 Video Site Page  Builder HTML Editor Bata with draggable  div window
 
  Generate video ,audio player with a  template.</p>
